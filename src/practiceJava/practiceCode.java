@@ -18,7 +18,7 @@ public class Main extends Application {
     private TextField input2;
     private TextField input3;
 
-    private Label resultLabel;
+
 
 
     @Override
