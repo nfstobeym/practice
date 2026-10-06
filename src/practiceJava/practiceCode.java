@@ -10,9 +10,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
-    // ==========================
-    // VARIABLES
-    // ==========================
+    //no comment test
 
     private TextField input1;
     private TextField input2;
