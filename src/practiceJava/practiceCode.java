@@ -17,6 +17,7 @@ public class Main extends Application {
     private TextField input1;
     private TextField input2;
     private TextField input3;
+    private TextField input4;
 
 
 
