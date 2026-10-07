@@ -1,3 +1,4 @@
+package practiceJava;
 
 Case Study:
 Assume the role of a system analyst and software engineer for a given IT company.
